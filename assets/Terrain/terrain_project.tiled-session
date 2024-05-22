@@ -1,0 +1,31 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "terrain_map.tmx": {
+            "scale": 1.21,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.5785123966942,
+                "y": 320.66115702479334
+            }
+        },
+        "terrain_tileset.tsx": {
+            "dynamicWrapping": false
+        }
+    },
+    "last.imagePath": "/Users/abhishekrawat/Documents/karan/Cocos_Second_Part_Projects/Terrain_demo_tiled",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "terrain_project.tiled-project",
+    "recentFiles": [
+        "terrain_map.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
