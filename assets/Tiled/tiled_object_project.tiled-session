@@ -1,0 +1,26 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "back_tileset.tsx": {
+            "dynamicWrapping": true
+        }
+    },
+    "last.imagePath": "/Users/abhishekrawat/Documents/karan/Cocos_Second_Part_Projects/Tiled_Object_Demo",
+    "map.height": 10,
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": null,
+    "map.width": 10,
+    "openFiles": [
+    ],
+    "project": "tiled_object_project.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

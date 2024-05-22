@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-up" width="10" height="10" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="4">
+ <tileset firstgid="1" source="back_tileset.tsx"/>
+ <objectgroup id="2" name="Object Layer 1">
+  <object id="1" name="card" x="1.23085" y="0.820565" width="127" height="127"/>
+  <object id="2" gid="1" x="1.60905" y="127.786" width="127" height="127"/>
+  <object id="3" name="player" x="308.23" y="309.465">
+   <point/>
+  </object>
+ </objectgroup>
+</map>
